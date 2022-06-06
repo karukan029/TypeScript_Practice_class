@@ -1,0 +1,6 @@
+// node_modules内にインストールされたtsc(TypeScript Compiler)を引数なしで実行するコマンド
+// ts-configでincludeを設定したので、src配下の全てのtsファイルがコンパイル対象
+tsc
+
+// 環境変数の設定
+環境変数名 = 値 node 実行するファイル
